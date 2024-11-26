@@ -1,0 +1,66 @@
+Data Types:
+
+Integer (int64): 12 columns
+Float (float64): 3 columns
+Object (string): 5 columns
+
+
+ID
+Unique identifier for each individual (customer).
+
+Gender
+Gender of the individual (0 for male, 1 for female).
+
+Own_car
+Binary feature indicating whether the individual owns a car (0 for no, 1 for yes).
+
+Own_property
+Binary feature indicating whether the individual owns a property (0 for no, 1 for yes).
+
+Work_phone
+Binary feature indicating whether the individual has a work phone (0 for no, 1 for yes).
+
+Phone
+Binary feature indicating whether the individual has a phone (0 for no, 1 for yes).
+
+Email
+Binary feature indicating whether the individual has provided an email address (0 for no, 1 for yes).
+
+Unemployed
+Binary feature indicating whether the individual is unemployed (0 for no, 1 for yes).
+
+Num_children
+Number of children the individual has.
+
+Num_family
+Total number of family members.
+
+Account_length
+Length of the individual's account with a bank or financial institution.
+
+Total_income
+Total income of the individual.
+
+Age
+Age of the individual.
+
+Years_employed
+Number of years the individual has been employed.
+
+Income_type
+Type of income (e.g., employed, self-employed, etc.).
+
+Education_type
+Education level of the individual.
+
+Family_status
+Family status of the individual.
+
+Housing_type
+Type of housing the individual lives in.
+
+Occupation_type
+Type of occupation the individual is engaged in.
+
+Target
+Target variable indicating whether the individual is eligible for a credit card (0 for not eligible, 1 for eligible).
